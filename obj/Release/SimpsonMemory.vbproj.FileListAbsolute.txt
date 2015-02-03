@@ -1,0 +1,20 @@
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\bin\Release\SimpsonMemory.exe
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\bin\Release\SimpsonMemory.pdb
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\bin\Release\SimpsonMemory.xml
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Release\ResolveAssemblyReference.cache
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.frm_memory.resources
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.Resources.resources
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.vbproj.GenerateResource.Cache
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.exe
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.xml
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.pdb
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.exe
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.xml
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.pdb
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\bin\Release\SimpsonMemory.exe
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\bin\Release\SimpsonMemory.pdb
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\bin\Release\SimpsonMemory.xml
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Release\ResolveAssemblyReference.cache
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.frm_memory.resources
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.Resources.resources
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Release\SimpsonMemory.vbproj.GenerateResource.Cache

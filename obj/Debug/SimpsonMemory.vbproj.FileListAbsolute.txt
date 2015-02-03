@@ -1,0 +1,76 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\SimpsonMemory\SimpsonMemory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.frm_memory.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.pdb
+G:\Nueva carpeta\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.exe
+G:\Nueva carpeta\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.xml
+G:\Nueva carpeta\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.pdb
+G:\Nueva carpeta\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.exe
+G:\Nueva carpeta\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.pdb
+G:\Nueva carpeta\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.xml
+G:\Nueva carpeta\SimpsonMemory\SimpsonMemory\obj\Debug\ResolveAssemblyReference.cache
+G:\Nueva carpeta\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.frm_memory.resources
+G:\Nueva carpeta\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.Resources.resources
+G:\Nueva carpeta\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.vbproj.GenerateResource.Cache
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.exe
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.xml
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.pdb
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.exe
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.pdb
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.xml
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Debug\ResolveAssemblyReference.cache
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.frm_memory.resources
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.Resources.resources
+F:\Mis archivos recibidos\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Bryan\Escritorio\SimpsonMemory\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.exe
+C:\Documents and Settings\Bryan\Escritorio\SimpsonMemory\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.xml
+C:\Documents and Settings\Bryan\Escritorio\SimpsonMemory\SimpsonMemory\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.pdb
+G:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.exe
+G:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.xml
+G:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.pdb
+G:\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.exe
+G:\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.pdb
+G:\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.xml
+G:\SimpsonMemory\SimpsonMemory\obj\Debug\ResolveAssemblyReference.cache
+G:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.frm_memory.resources
+G:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.Resources.resources
+G:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.vbproj.GenerateResource.Cache
+F:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.exe
+F:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.xml
+F:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.pdb
+F:\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.exe
+F:\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.pdb
+F:\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.xml
+F:\SimpsonMemory\SimpsonMemory\obj\Debug\ResolveAssemblyReference.cache
+F:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.frm_memory.resources
+F:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.Resources.resources
+F:\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.vbproj.GenerateResource.Cache
+G:\[DYR] Listo entregar\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.exe
+G:\[DYR] Listo entregar\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.xml
+G:\[DYR] Listo entregar\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.pdb
+G:\[DYR] Listo entregar\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.exe
+G:\[DYR] Listo entregar\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.pdb
+G:\[DYR] Listo entregar\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.xml
+G:\[DYR] Listo entregar\SimpsonMemory\SimpsonMemory\obj\Debug\ResolveAssemblyReference.cache
+G:\[DYR] Listo entregar\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.frm_memory.resources
+G:\[DYR] Listo entregar\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.Resources.resources
+G:\[DYR] Listo entregar\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.vbproj.GenerateResource.Cache
+G:\Documents\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.exe
+G:\Documents\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.xml
+G:\Documents\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.pdb
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.exe
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.xml
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.pdb
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.exe
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.pdb
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\bin\Debug\SimpsonMemory.xml
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Debug\ResolveAssemblyReference.cache
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.frm_memory.resources
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.Resources.resources
+D:\DAI\DYR\Proyectos\SimpsonMemory\SimpsonMemory\obj\Debug\SimpsonMemory.vbproj.GenerateResource.Cache

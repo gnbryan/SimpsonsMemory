@@ -1,0 +1,187 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SimpsonMemory
+</name>
+</assembly>
+<members>
+<member name="P:SimpsonMemory.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:SimpsonMemory.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:SimpsonMemory.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="F:SimpsonMemory.frm_memory.mostrada">
+	<summary>
+ Variable mostrada.
+ </summary>
+	<remarks>Variable booleana que nos va a indicar si a la hora de pulsar sobre una carta ya hay previamente una boca arriba o no.</remarks>
+</member><member name="F:SimpsonMemory.frm_memory.lastoption">
+	<summary>
+ Variable lastOption.
+ </summary>
+	<remarks>Variable entera que se encargará de comparar si dos cartas son iguales o no por medio de su Tag.</remarks>
+</member><member name="F:SimpsonMemory.frm_memory.lastControl">
+	<summary>
+ Botón lastControl.
+ </summary>
+	<remarks>Botón que va a almacenar la información del penúltimo botón que ha pulsado el usuario.</remarks>
+</member><member name="F:SimpsonMemory.frm_memory.actualControl">
+	<summary>
+ Botón actualControl.
+ </summary>
+	<remarks>Botón que se encargará de almacenar el botón que acaba de pulsar el usuario por última vez, que será el correspondiente al que venga del evento click que convenga.</remarks>
+</member><member name="F:SimpsonMemory.frm_memory.tablero">
+	<summary>
+ Array tablero.
+ </summary>
+	<remarks>
+ Array de Figuras que se va a encargar de guardar las 12 figuras que pertenecen al juego.
+ Este tablero se inicializará aleatoriamente tras cada partida por medio de la función inicializarTablero()
+ </remarks>
+</member><member name="F:SimpsonMemory.frm_memory.record">
+	<summary>
+ Variable record.
+ </summary>
+	<remarks>Variable entera que va a almacenar el record de intentos de cada ronda y se encargará de compararlo con el que es actualmente el mejor record para saber si éste es ahora el mejor.</remarks>
+</member><member name="F:SimpsonMemory.frm_memory.recordMax">
+	<summary>
+ Variable recordMax.
+ </summary>
+	<remarks>
+ Variable entera que almacenará la mejor partida en función del númeor de intentos. 
+ Inicialmente se inicializará a un número muy grande para que así en la primera partida se guarde el primer record en la aplicación.
+ </remarks>
+</member><member name="M:SimpsonMemory.frm_memory.frm_memory_Load(System.Object,System.EventArgs)">
+	<summary>
+ Evento load del formulario frm_memory.
+ </summary>
+	<remarks>El formulario cargará cada vez que sea ejecutado cada una de las cartas boca abajo, llamará a los métodos inicializarTablero() e insertarImagen() e inicializará las variables recordMax, mostrada y la etiqueta lbl_intentos.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.Timer1_Tick(System.Object,System.EventArgs)">
+	<summary>
+ Evento tick del timer1.
+ </summary>
+	<remarks>
+ Evento tick del timer que tendrá por función mantener dos cartas boca arriba durante unos milisegundos, en caso de no ser iguales, y ocultarlas pasado ese tiempo. 
+ Contendrá también las llamadas a la función bloqueaCartas().
+ </remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_1_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_1
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_2_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_2
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_3_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_3
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_4_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_4
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_5_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_5
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_6_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_6
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_7_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_7
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_8_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_8
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_9_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_9
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_10_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_10
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_11_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_11
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.btn_12_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del botón btn_12
+ </summary>
+	<remarks>Su función será pasarle al método juego() el botón que provocó su evento click así como el pictureBox que alberga debajo.</remarks>
+</member><member name="M:SimpsonMemory.frm_memory.inicializarTablero">
+	<summary>
+ Método inicializarTablero()
+ </summary>
+	<remarks>
+ Método sub que no recibe parámetros.
+ La función de este método será la de inicializar aleatoriamente el tablero en cada partida. Esto se hará colocando las 12 figuras disponibles sobre el array tablero de forma aleatoria, 
+ generando los números aleatorios que se necesiten para rellenar la tabla y apoyándonos en una tabla de booleans, que nos indicará si la posición del array asociada al número aleatorio correspondiente está ya ocupada por una figura o no.
+ </remarks>
+</member><member name="M:SimpsonMemory.frm_memory.insertarImagen">
+	<summary>
+ Método insertarImagen()
+ </summary>
+	<remarks>
+ Método sub que no recibe parámetros.
+ 
+ Esta función tiene por objetivo asociar a cada pictureBox su imagen (que está cargada como recurso al proyecto) y un tag, usado posteriormente para las comparaciones de dos cartas, de acuerdo con la figura de su tablero.
+ </remarks>
+</member><member name="M:SimpsonMemory.frm_memory.bloquearCartas(System.Boolean)">
+	<summary>
+ Método bloquearCartas()
+ </summary>
+	<remarks>
+ Recibe como parámetro un boolean.
+ 
+ Método que se encarga de bloquear las cartas del tablero durante un instante cuando dos cartas estén boca arriba listas para ser comparadas, para de esta manera impedir al usuario que pulse una tercera carta mentras se comparan esas 2.
+ El boolean que se recibe por parámetro determinará cuando se bloquea/desbloquea el tablero.
+ </remarks>
+</member><member name="M:SimpsonMemory.frm_memory.juego(System.Windows.Forms.Button,System.Windows.Forms.PictureBox)">
+	<summary>
+ Método juego()
+ </summary>
+	<remarks>
+ Método sub que recibe como parámetro un botón y un pictureBox.
+ Método principal de la aplicación que será la encargada de comparar las cartas, de visualizarlas al usuario, de activar el timer y de controlar los intentos y los records de cada partida del usuario.
+ </remarks>
+</member><member name="M:SimpsonMemory.frm_memory.NuevaPartidaToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del NuevaPartidaToolStripMenuItem.
+ </summary>
+	<remarks>
+ Se encargará de iniciar una nueva partida.
+ Pondrá todas las cartas del tablero boca abajo y llamará a los métodos inicializarTablero() e insertarImagen() y reestablecerá el contador de intentos a 0.
+ </remarks>
+</member><member name="M:SimpsonMemory.frm_memory.SalirToolStripMenuItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Evento click del SalirToolStripItem.
+ </summary>
+	<remarks>Sale de la aplicación actual.</remarks>
+</member>
+</members>
+</doc>
